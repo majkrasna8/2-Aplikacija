@@ -22,4 +22,4 @@ A simple Android application built with Java in Android Studio, demonstrating ba
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/majkrasna8/2.App.git
