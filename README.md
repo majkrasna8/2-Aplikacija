@@ -23,5 +23,5 @@ A simple Android application built with Java in Android Studio, demonstrating ba
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/majkrasna8/2.App.git
+   git clone [https://github.com/majkrasna8/2.App.git](https://github.com/majkrasna8/2-Aplikacija)
 <img width="180" height="350" alt="Screenshot_20261005_094017_PrvaAplikacija" src="https://github.com/user-attachments/assets/3f438567-cf15-4c13-ab1c-b0660e58bd0f" />
